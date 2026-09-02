@@ -52,7 +52,7 @@
 
 **Data Engineering, Analytics & Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
 **High-Performance & Scientific Computing**
@@ -64,7 +64,7 @@
 
 **Developer Tools & Environments**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="38" alt="LaTeX" />
 </p>
 
